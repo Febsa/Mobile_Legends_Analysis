@@ -44,11 +44,11 @@ Menganalisis Top Spell yang sering digunakan oleh Top 10 MVP Pemain.
 
 
 ### 9. Top Players with total medal they won and highest gold medals.
-Mengananalisis jumlah medali yang didapatkan pemain beserta menampilkan Top 10 Pemain yang berhasil mendapatkan Gold Medal.
+Menganalisis jumlah medali yang didapatkan pemain beserta menampilkan Top 10 Pemain yang berhasil mendapatkan Gold Medal.
 
 
 ### 10. Top Team have won the most
-Menganampilkan Top 10 Tim yang berhasil memenangkan pertandingan di semua kompetisi.
+Menampilkan Top 10 Tim yang berhasil memenangkan pertandingan di semua kompetisi.
 
 
 
